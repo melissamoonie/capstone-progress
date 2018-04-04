@@ -1,3 +1,6 @@
+<!-- coded with the help of a udemy tutorial -->
+
+
 <?php 
 include("includes/header.php");
 include("includes/classes/User.php");
@@ -81,6 +84,8 @@ if(isset($_POST['post'])){
 <ul><b>Camp Verde Hot Springs:</b> How to get there and what to bring.</ul>
 <ul>What it takes to do a <b>90 foot backflip</b>. Mental Preparation for the big jump.</ul>
 <ul><b>Diving in Cuba:</b> The mysterious hotel diving platform.</ul>
+<ul><b>Cliff Diving Legality:</b> An Interview with Jordan Solario</ul>
+<ul>Learning to Cliff Dive in My 20's: An Article by Mercedes Cordova</ul>
 	</div><br>
 
 <!-- </div> -->
